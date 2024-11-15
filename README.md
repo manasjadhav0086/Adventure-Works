@@ -1,4 +1,5 @@
 **Project Objective**
+
 The goal of this project is to build a dynamic, real-time dashboard in Power BI that connects to an SQL database. The dashboard visualizes key insights such as sales performance, regional analysis, and targets using the Adventure Works dataset. The project integrates data processing using Python, data storage in MySQL, and real-time data updates in Power BI.
 
 **Project Structure**
