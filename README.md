@@ -43,5 +43,5 @@ This project aims to create a dynamic, real-time dashboard in **Power BI** using
 - **Python**: Data cleaning and preprocessing.  
 - **MySQL**: Database design and management.  
 - **Power BI**: Data visualization and dashboard creation.  
-
+    
 --- 
