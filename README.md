@@ -45,3 +45,8 @@ This project aims to create a dynamic, real-time dashboard in **Power BI** using
 - **Power BI**: Data visualization and dashboard creation.  
     
 --- 
+![Screenshot 2024-11-15 151133](https://github.com/user-attachments/assets/cfbfdc76-a143-4c1d-8a84-7560bb04bc88)
+![Screenshot 2024-11-15 151202](https://github.com/user-attachments/assets/241a5a3e-15c0-4847-b6cb-9dd9733305f3)
+![Screenshot 2024-11-15 151303](https://github.com/user-attachments/assets/a846fba2-6f32-4851-97ae-54da4b1d3ff9)
+![Screenshot 2024-11-15 151323](https://github.com/user-attachments/assets/d38e211f-79ac-4183-ab96-8bb94e23d9cb)
+
